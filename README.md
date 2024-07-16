@@ -63,34 +63,42 @@
 <h2>LIST</h2>
 <p>list digunakan untuk mengelompokan item atau daftar. list ini ada tiga jenis yaitu < ul > daftar yang tidak berurutan, < ol > data yang berurutan dan < dl > yang merupakan Daftar deskripsi adalah daftar istilah, dengan deskripsi setiap istilah.</dl> </p>
 <p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/fbc6f3b3-fa86-435a-8197-c7dd6c950134">
+<img src="https://github.com/user-attachments/assets/495df060-dfab-4785-817c-925e5c4f996f">
+
 <p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/1c36ae27-93ac-4a69-8f0c-ede00f956cd1">
+<img src="https://github.com/user-attachments/assets/9602d842-41a7-4f78-a20d-8e3b3b04ab5c">
+
 
 <h2>HYPERLINK</h2>
 <p>HYPERLINK bisa dibilang sebagai tautan yang dapat mengarahkan ke dokumen lain.</p>
 <p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/0e6b1192-ffa3-4a3d-8b3f-8d67fd24d2e0">
+<img src="https://github.com/user-attachments/assets/71053774-1674-4b0d-9c2f-80efd54c35ec">
+
 <p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/b1198957-0247-439a-9436-5da477094c3c">
+<img src="https://github.com/user-attachments/assets/680b6e41-33c2-4435-b57b-4f42a227603f">
+
 
 
 <h1>CSS</h1>
 <p>CSS atau Cascading Style Sheet merupakan style atau gaya yang diberikan untuk html. Jadi jika di analogikan css adalah cat tembok dari sebuah rumah, jadi adi untuk pondasi di analogikan sebagai html dan sekarang cat tembok dan dekorasi yang lainnya bisa dianalogikan sebagai css yang berguna untuk mempercantik tampilan. Sama halnya website dengan menggunkan css kita bisa menstyle website tersebut dengan apa yang kita mau. Dalam pemanggilan css dapat menggunakan 3 cara yaitu inline,internal, dan eksternal. inline itu pemanggilan css yang berada di dalam baris dalam tag html, jadi kita menambahkan atribut style di dalam tag lalu masukkan kode cssnya. internal merupakan pemanggilan yang berada di dalam tag head html. Lalu yang terakhir eksternal merupakan pemanggilan css yang berada di luar file ataua css terpisah dengan file htmlnya. Menstyle html kita harus menselector tag html untuk melakukan styling, contohnya adalah tag < p >, kita harus menselector tag p terlebih dahulu barulah kita styling sesuai keinginan kita. </p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/bc5d6e05-f771-4275-a65d-9c61316c0039">
+<img src="https://github.com/user-attachments/assets/edb28237-e885-43d7-b246-2f464023b230">
+
 Gambar di atas merupakan cara menggunakan css dengan cara pemanggilan internal. Biasanya dalam menselector suatu elemen atribut class merupakan cara yang sering digunkan dalam menselector suatu elemen. Jadi dalam menselector suatu elemen menggunakan class kita hanya memanggil dengan cara ".namaclassnya".
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/a24580d6-c3c4-463c-8661-320f82143b9e">
+<img src="https://github.com/user-attachments/assets/906d0b63-e063-4ddc-9b55-2272f8d3761e">
+
 
 
 <h2>COLOR</h2>
 <p>Ini dapat digunkan untuk memberi warna pada suatu elemen.</p>
 <p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/a6ad758a-8526-4602-bcad-632b3edf5232">
+<img src="https://github.com/user-attachments/assets/f8586637-5f9b-4b7d-bf6f-5a62eafcca69">
+
 
 <p>ouput</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/d0f285b8-38e5-4f0d-9068-97b6bbb5fe81">
+<img src="https://github.com/user-attachments/assets/f8d6b8c4-0620-49fb-a73b-3b169617125a">
 
-<h2>BACGROUND</h2>
+
+<h2>BACKGROUND</h2>
 <p>memebrikan latar belakang pada elemen, latar belakang bisa saja gambar maupun warna.</p>
 <p>input :</p>
 <img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/3088e443-4073-4c9d-ad88-d2c94feeacdd">
