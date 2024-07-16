@@ -13,9 +13,11 @@
 <h2>PARAGRAPH</h2> 
 <p> kegunaan tag paragraf ini mendefinisikan dalam pembuatan Paragraf dalam html</p>
 <p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/b9e62af1-65b8-47ef-a678-12d702b4942f">
+<img src="https://github.com/user-attachments/assets/96ce95b2-768a-4bc0-ad13-24abb4d16d3e">
+
 <p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/80db2548-f3d3-423c-a322-b1c13d16a84e">
+<img src="https://github.com/user-attachments/assets/da7e7e0c-e189-4666-8dde-df0f639a1d3f">
+
 
 
 <h2>FORMATING</h2>
