@@ -4,7 +4,7 @@
 
 <h2>HEADING</h2>
 <p>Kegunaan dari heading ini digunakan untuk judul atau subjudul. heading ini terdiri dari h1 sampai h6, h1 merupakan yang paling besar dan h6 merupakan yang paling kecil. Biasanya yang paling besar itu digunakan untuk judul dan yang lebih kecilnya lagi digunakan untuk subjudul.</p>
-![Screenshot 2024-07-16 193131](https://github.com/user-attachments/assets/6d8ea327-e99b-437b-b2b5-45888c350d68)
+<img src="https://github.com/user-attachments/assets/6d8ea327-e99b-437b-b2b5-45888c350d68")
 
 
 
