@@ -101,47 +101,27 @@ Gambar di atas merupakan cara menggunakan css dengan cara pemanggilan internal. 
 <h2>BACKGROUND</h2>
 <p>memebrikan latar belakang pada elemen, latar belakang bisa saja gambar maupun warna.</p>
 <p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/3088e443-4073-4c9d-ad88-d2c94feeacdd">
-<p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/dea11b13-4d6a-4d3d-8a3c-3ee49e4e2b57">
+<img src="https://github.com/user-attachments/assets/0f7ef739-2d00-4f8f-93db-b356e6bb158c">
 
-<h2>BOX MODEL</h2>
-<p>Setiap elemen itu berbentuk kotak, di dalam kotak itu terdiri dari margin, border, padding dan content</p>
-<ul>
-<li>Content - Isi kotak, tempat teks dan gambar muncul</li>
-<li>Padding - Memberikan ruang di dalam content</li>
-<li>Border - Perbatasan yang mengelilingi padding dan konten</li>
-<li>Margin - Memberikan area di luar perbatasan</li>
-</ul>
-<p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/b738f9e6-e2fd-4ac6-8041-472bba7c3a37">
 <p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/3183a4d7-71b8-4342-a13c-d544f1f9765e">
-
-<h2>HEIGHT AND WIDTH</h2>
-<p>memberikan panjang dan tinggi pada elemen</p>
-<p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/21315057-a085-43b1-90dc-439b3c5dac6d">
-<p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/4a765251-ce90-44dd-890d-50aef5a8434c">
-
+<img src="https://github.com/user-attachments/assets/8deae410-04f6-413d-b653-162da3a40af2">
 
 <h2>OUTLINE</h2>
 <p>sama halnya seperti border tetapi outline tidak berpengaruh kepada elemen lain(jaraknya). outline berada di luar border</p>
 <p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/4267fdab-9d96-4726-9128-210bf70cbbd5">
+<img src="https://github.com/user-attachments/assets/49da5cfc-ff6c-4924-9a8e-448d2f1a3a68">
 <p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/857f3b72-dff1-4291-9332-eed2c7acb7ae">
+<img src="https://github.com/user-attachments/assets/5a28c587-7bf9-4bc5-8c59-6a3a10f04e38">
 
 
 <h2>TEXT</h2>
 <p>css dapat menformat banyak sekali text</p>
 <p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/628d5611-5d2d-46ad-a4fc-397b0dd8ff65">
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/1705ee65-d271-4f9a-b573-e35acc34d99b">
+<img src="https://github.com/user-attachments/assets/31c24228-037e-4aab-8125-0f9ea15e9f5e">
+<img src="https://github.com/user-attachments/assets/1b363438-6867-45f8-839e-9291de1a2c11">
 <p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/e0f30a26-11ed-4450-8c90-bafe23517dc5">
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/91fd1aaa-90ca-4492-a498-01fdadf71908">
+<img src="https://github.com/user-attachments/assets/cdf59a34-c53d-40b3-9a39-5e6a5130e789">
+<img src="https://github.com/user-attachments/assets/0b272281-7587-43f5-9e15-4acc9678d411">
 
 <h2>DISPLAY</h2>
 <p>Dalam HTML setiap elemen mempunyai displaynya masing masing. Adanya display ini kita bisa mengubah perilaku dari suatu elemen atau mengubah dispaly dari suatu elmen. Display ada block dan inline, blok meruapakan display yang merentangkan baris seluruh lebar yang tersedia (merentang ke kiri dan kanan sejauh mungkin). Sedangkan inline baris yang direntangkan hanya sesuai kebutuhan saja</p>
@@ -162,10 +142,9 @@ Gambar di atas merupakan cara menggunakan css dengan cara pemanggilan internal. 
 <li>< img ></li>
 </ul>
 <p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/375be757-becc-41dc-a4b0-e6685ad35df0">
+<img src="https://github.com/user-attachments/assets/d7d35cf9-4870-49bb-a33a-3e498caf422e">
 <p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/424fd11d-6b76-4501-b9a3-613c34ed81d8">
-
+<img src="https://github.com/user-attachments/assets/720ec74d-bfa1-4743-b711-61535f734a78">
 
 <h1>JAVASCRIPT</h1>
 <p>Javascript merupakan bahasa pemrograman yang populer sekarang. Jika di analogikan javascript itu sebagai fungsionalitas dari sebuah rumah, yang tadi HTML sebagai pondasi atau struktur sebuah rumah css sebagai stylenya untuk mempercantik rumah dan sekarang javascript sebagai fungsionalitas dari sebuah rumahnya, contohny adalah pintu yang digunakan untuk masuk kerumah. Sama halnya javascript, jadi dengan javascript web yang kita akan menjadi lebih pintar atau lebih interaktif.</p>
@@ -180,9 +159,9 @@ Gambar di atas merupakan cara menggunakan css dengan cara pemanggilan internal. 
 </ul>
 <p>setiap mendeklarasi variabel itu mempunyai fungsi masing - masing</p>
 <p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/b33fd36f-9573-44d9-8eaa-cdf468298dd7">
+<img src="https://github.com/user-attachments/assets/440e1bee-380c-41b0-b3e3-d8aaa502154a">
 <p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/bcc0de35-333d-4723-96a6-df0989047227">
+<img src="https://github.com/user-attachments/assets/3569437a-27f5-4bcc-b907-af4050ae3219">
 
 <h2>TIPE DATA</h2>
 <p>terdapat beberapa tide data dalam java script :</p>
@@ -196,32 +175,31 @@ Gambar di atas merupakan cara menggunakan css dengan cara pemanggilan internal. 
 <li>Symbol</li>
 <li>Object</li>
 </ol>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/92c3e962-fc57-4cd1-8ec7-de063b018643">
-
+<img src="https://github.com/user-attachments/assets/6a93b380-2af3-46b8-8275-67f9b4fcdbbf">
 <h2>FUNCTION</h2>
 <p>function merupakan blok kode yang dirancang untuk melakukan tugas tertentu. Dalam aturan pembuatan function dalam java script di tulis dengan "function myfunction". "function" adalah syntak yang harus ada dalam penulisan function, "myfunction()" merupakan nama dari functionnya dan "()" merupakan parameter yang nantinya akan berfungsi untuk menyimpan data. contoh penggunaan:</p>
 <p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/d4f1171b-55a8-4c89-85d9-bb21e168e791">
+<img src="https://github.com/user-attachments/assets/ce521171-06f3-4155-bb37-1bfff42b97e0">
+
 <p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/b27d6d44-a71e-4d4c-ab56-c5f591ba1160">
+<img src="https://github.com/user-attachments/assets/f454fee6-cad2-4058-ba13-61f1ce1e3292">
 
 <h2>OBJEK</h2>
 <p>objek merupakan sebuah entitas yang memiliki properti dan method. Jika di analogikan dalam dunia nyata objek itu contohnya adalah mobil, jadi mobil itu banyak jenisnya seperti toyota, kijang, suzuki dan lain lain nama nama dari mobil tersebut di analogikna sebagai properti. Lalu fungsi mobil itu adalah bisa berjalan maksimal sesuai dengan kecepatan merk mobil masing masing  yang bisa dianalogi sebagai methodnya.</p>
 <p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/7debf030-c5fd-4dd0-a781-1799914b10d2">
+<img src="https://github.com/user-attachments/assets/5a2bbcab-8294-4cd4-9124-d214398c5a1e">
 <p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/77b85362-6786-4092-b605-f70946baa5f8">
-
+<img src="https://github.com/user-attachments/assets/16d23694-1e91-49da-b6ba-b086beabcd66">
 
 <h2>EVENT</h2>
 <p>event merupakan hal yang terjadi ketika peristiwa itu bereaksi. Peristiwa HTML bisa berupa sesuatu yang dilakukan browser, atau sesuatu yang dilakukan pengguna. contoh :</p>
 <p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/969bfb1c-d6d3-495f-a048-8b0e87c7569b">
+<img src="">
 
 <p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/07b51ef0-8573-45b1-8042-919948aef1f2">
-<p>ketika diklik maka akan menampilkan indra</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/310f6ccb-826e-47f4-bf6a-d74e9b970165">
+<img src="">
+<p>ketika diklik maka akan menampilkan eval</p>
+<img src="">
 
 
 
