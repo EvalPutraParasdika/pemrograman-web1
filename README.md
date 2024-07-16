@@ -194,12 +194,12 @@ Gambar di atas merupakan cara menggunakan css dengan cara pemanggilan internal. 
 <h2>EVENT</h2>
 <p>event merupakan hal yang terjadi ketika peristiwa itu bereaksi. Peristiwa HTML bisa berupa sesuatu yang dilakukan browser, atau sesuatu yang dilakukan pengguna. contoh :</p>
 <p>input :</p>
-<img src="">
-
+<img src="https://github.com/user-attachments/assets/1d8a9509-0d75-40bd-acde-67f6781b98fc">
 <p>output :</p>
-<img src="">
+<img src="https://github.com/user-attachments/assets/3f9ad9f0-6b99-421e-8240-4a94a5bc9bca">
 <p>ketika diklik maka akan menampilkan eval</p>
-<img src="">
+<img src="https://github.com/user-attachments/assets/f56d60f8-6446-4dbd-8dfd-61fe02b723f4">
+
 
 
 
