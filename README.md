@@ -35,33 +35,29 @@
 <li>< sup >- Teks superskrip</li>
 </ul>
 <p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/5cf3f7b0-27a9-4d07-a75f-1d83b33b7341">
+<img src="https://github.com/user-attachments/assets/c153a95a-c828-4845-a02c-ab0ebaea20fd">
+
 <p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/ed884d2e-ac58-4416-8965-71927229b9d7">
+<img src="https://github.com/user-attachments/assets/b0e765d9-fb69-46ce-9d1a-fb42e10b8f8b">
+
 
 <h2>IMAGE</h2>
 <p>Berguna untuk menambahkan gambar pada html. tag ini dibutuhkan atribut src yang digunakan sebagai menyimpan alamat gambar</p>
 <p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/3d9215ce-5c30-432f-b8ca-9222f49d02e2">
+<img src="https://github.com/user-attachments/assets/55451463-c164-4d80-bd66-20df22b7ea20">
+
 <p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/96a4669e-cd6d-44b3-b97f-b1876486881b">
+<img src="https://github.com/user-attachments/assets/b7c612e1-925e-4575-90e1-c9e1c141cb99">
+
 
 <h2>TABLE</h2>
 <p>table ini digunkan untuk membuat tabel dalam halaman. tag awal dalam pembuatan table ini adalah < table > dan penutupnya ini digunakan untuk mendefinisikan sebuah tabel. lalu didalamnya ada tag < tr > dan penutupnya yang digunkan untuk baris dalam tabel dan di dalamnya ada lagi yaitu < th > yang digunakan untuk header dalam sebuah tabel dan < td > yang digunkan untuk kolom dalam tabel. Sama halnya dengan tabel seperti biasanya yang membutuhkan baris dan kolom untuk membuat tabel.</p>
 <p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/62079c14-067f-4caf-b0f1-69a2ef185918">
+<img src="https://github.com/user-attachments/assets/4a34be78-5247-4bdd-bf79-d9f7f46b6615">
+
 <p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/b52b2373-93dc-4015-98b2-c5a9bb1d0bfc">
-<p>Dalam table kita bisa menggabung setiap kolom juga dengan menambahkan atribut colspan dan rowspan, colspan digunkan untuk menggabungkan kolom dan rowspan digunakan untuk menggabungkan baris. contoh :
-<p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/8c192c7a-34a4-4aeb-95d7-c7fa74311a07">
-<p>output :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/c91e65bd-43a4-4de4-80a4-d1e20966ed06">
-<p>dan sebaliknya jika menggunakan rowspan</p>
-<p>input :</p>
-<img src="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/b555a912-f9b6-4189-80a9-5f0d299bd1b5">
-<p>output :</p>
-<img src ="https://github.com/IndraAjiyanto/Pemrograman-web1/assets/136661715/c676d9cc-dd9e-4de8-8edc-4c0a5d3511d4">
+<img src="https://github.com/user-attachments/assets/d8c61541-17fd-4265-afd8-aaca06301476">
+
 
 
 <h2>LIST</h2>
